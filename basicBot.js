@@ -236,7 +236,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "",
+        version: ".13",
         status: false,
         name: "Arch's Bot",
         loggedInID: null,
@@ -294,7 +294,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Temporary Message of the Day",
+            motd: "Don't be a loser, Buy a defuser",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
@@ -303,7 +303,7 @@
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
-            website: null,
+            website: "www.hearthigen.com",
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
