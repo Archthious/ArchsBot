@@ -231,16 +231,16 @@
         return str;
     };
 
-    var botCreator = "Yemasthui";
-    var botMaintainer = "Benzi"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreator = null;
+    var botMaintainer = null;
+    var botCreatorIDs = [null];
 
     var basicBot = {
-        version: ".13",
+        version: "1",
         status: false,
         name: "Arch's Bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Archthious/ArchsBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
         chat: null,
